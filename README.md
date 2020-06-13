@@ -27,28 +27,10 @@
   <a><img src="https://img.shields.io/badge/Commands-menu-yellow.svg"></a>
  </p>
 
-<h3 align="center">Installation (Default Version)</h3>
+<h3 align="center">Installation (Unified)</h3>
 
   ```html
 wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DB && chmod +x DB && ./DB
-  ```
-
-<h3 align="center">Installation (Yellow Version)</h3>
-
-  ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DBY && chmod +x DBY && ./DBY
-  ```
-
-<h3 align="center">Installation (Experimental)</h3>
-
-  ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DBE && chmod +x DBE && ./DBE
-  ```
- 
-<h3 align="center">Installation (Unstable Early Version)</h3>
-
-  ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DBM && chmod +x DBM && ./DBM
   ```
 
 
