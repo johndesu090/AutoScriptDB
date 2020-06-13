@@ -54,7 +54,7 @@ wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/DBM && ch
 
 <h3 align="center">Additional Info</h3>
 <p align="center">
-Recommended OS: Debian 10 Buster x64
+Recommended OS: Debian 9 Stretch x64
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
