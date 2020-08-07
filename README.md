@@ -30,7 +30,7 @@
 <h3 align="center">Installation (Unified)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/install && chmod +x install && ./install
+(CLOSED FOR UPDATES)
   ```
 
 
