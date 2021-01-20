@@ -1,4 +1,4 @@
-<h1 align="center">Premium AutoScriptDB (Unified)<img src="https://img.shields.io/badge/Version-3.0.2-blue.svg"></h1>
+<h1 align="center">Premium AutoScriptDB (Unified)<img src="https://img.shields.io/badge/Version-4.0.0-blue.svg"></h1>
 
 <p align="center">VPN AutoScript is made by FordSenpai to minimize the time consumed and user involvement in setting up your VPS</p>
 <p align="center">[Donations] GCASH: 09206200840 PAYPAL: johnford090@gmail.com FACEBOOK: John Ford Mangiliman</p>
@@ -30,7 +30,7 @@
 <h3 align="center">Installation (Unified)</h3>
 
   ```html
-wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/Files/Binaries/setup && chmod +x setup && ./setup
+wget https://raw.githubusercontent.com/johndesu090/AutoScriptDB/master/install.sh && chmod +x install.sh && ./install.sh
   ```
 
 
