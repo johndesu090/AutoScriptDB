@@ -25,7 +25,7 @@ MYIP2="s/xxxxxxxxx/$MYIP/g";
 	echo "     ~Welcome to JohnFordTV Debian 9 & 10 Autoscript~"
 	echo " "
 	echo "======================================================="
-	echo "=================== Warren Pretrius ==================="
+	echo "==================  PREMIUM SCRIPT  ==================="
 	echo "======================================================="
 	echo " "
 	echo "Howdy VPS Admin!"
