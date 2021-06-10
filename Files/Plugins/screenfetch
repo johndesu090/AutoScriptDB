@@ -2633,7 +2633,7 @@ asciiText () {
 "$c2 Script by JohnFordTV"
 "$c2 https://fb.me/johndesu090"
 "$c2 Type 'menu' to see list menu"
-"$c2)
+"$c2 ")
 		;;
 
 		"KDE neon")
