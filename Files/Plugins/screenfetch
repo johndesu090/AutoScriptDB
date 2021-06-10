@@ -2630,6 +2630,10 @@ asciiText () {
 "$c2               /osyyyyyyo$c3++ooo+++/    %s"
 "$c2                   \`\`\`\`\` $c3+oo+++o\:    %s"
 "$c3                          \`oo++.      %s")
+"$c2 Script by JohnFordTV"
+"$c2 https://fb.me/johndesu090"
+"$c2 Type 'menu' to see list menu"
+"$c2
 		;;
 
 		"KDE neon")
@@ -2686,7 +2690,7 @@ asciiText () {
 "  $c1          \`\"Y\$b._             %s"
 "  $c1              \`\"\"\"\"           %s"
 "                                %s"
-" $c2 Script by FordSenpai"
+" $c2 Script by JohnFordTV"
 " $c2 https://fb.me/johndesu090"
 " $c2 Type 'menu' to see list menu"
 " $c2 ")
